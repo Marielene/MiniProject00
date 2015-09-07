@@ -1,2 +1,8 @@
 # MiniProject00
-MiniProject00 is basically a calculator
+It's the first miniproject we'r making after learning the c# basics in the course
+##Project desc
+used for calculating different things for building sites.
+##included commands
+
+##ways of installation
+
