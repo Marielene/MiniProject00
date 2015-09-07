@@ -6,11 +6,12 @@ namespace Calculator
 	{
 		//Defining Libraries
 		public Userinput.Uinput uInput=new Userinput.Uinput ();
+		public About.about me=new About.about();
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
 			MainClass _program = new MainClass ();
-			_program.uInput.justesting ();
+			_program.uInput.ey ();
+			_program.uInput.getusercomm ();
 		}
 	}
 }
