@@ -1,0 +1,13 @@
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\Calculations.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\Calculations.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\mscorlib.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\normidna.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\normnfc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\normnfd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\normnfkc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\normnfkd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\obj\Release\Calculations.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\obj\Release\Calculations.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\Colors.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\bin\Release\Colors.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculations\obj\Release\Calculations.csprojResolveAssemblyReference.cache

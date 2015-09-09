@@ -1,0 +1,17 @@
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Userinput.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Userinput.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\About.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Colors.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\mscorlib.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\About.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Colors.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\normidna.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\normnfc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\normnfd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\normnfkc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\normnfkd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\obj\Release\Userinput.csprojResolveAssemblyReference.cache
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\obj\Release\Userinput.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\obj\Release\Userinput.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Calculations.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Userinput\bin\Release\Calculations.pdb

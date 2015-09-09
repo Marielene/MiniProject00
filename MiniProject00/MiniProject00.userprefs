@@ -1,16 +1,16 @@
 ﻿<Properties StartupItem="Calculator\Calculator.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator\Formula01.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculations\Formula01.cs">
     <Files>
-      <File FileName="Calculations\Calculations.cs" Line="13" Column="1" />
-      <File FileName="Calculator\Formula01.cs" Line="28" Column="25" />
-      <File FileName="Userinput\Userinput.cs" Line="2" Column="1" />
+      <File FileName="Calculations\Calculations.cs" Line="7" Column="40" />
+      <File FileName="Calculations\Formula01.cs" Line="34" Column="49" />
+      <File FileName="Userinput\Userinput.cs" Line="23" Column="65" />
+      <File FileName="Calculator\Program.cs" Line="14" Column="35" />
+      <File FileName="Colors\ForCLI.cs" Line="27" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\Program.cs" line="18" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

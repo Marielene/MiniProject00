@@ -3,3 +3,11 @@ C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Calcula
 C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\obj\x86\Release\Calculator.exe
 C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\obj\x86\Release\Calculator.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\About.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Userinput.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Colors.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Userinput.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\About.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Colors.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Calculations.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Calculator\bin\Release\Calculations.pdb

@@ -6,6 +6,7 @@ namespace Userinput
 	{
 		public About.about me=new About.about();
 		Colors.ForCLI c=new Colors.ForCLI();
+		Calculations.MainLibrary _Calc=new Calculations.MainLibrary();
 		public Uinput ()
 		{
 		}
@@ -19,9 +20,7 @@ namespace Userinput
 				c.prompt();Console.Write("$ "); 
 				c.Command();_comm=Console.ReadLine();
 				//checking for existing commands
-				if(_comm.ToLower().Contains("command1")){ c.Default();
-					Console.Write("You've started \n");
-					c.Result();Console.WriteLine(" command1");
+				if(_comm.ToLower().Contains("hole")){ _Calc.F01.calc(_comm);
 				}
 				if(_comm.ToLower().Contains("command2")) Console.Write("You've started command2\n");
 				if(_comm.ToLower().Contains("command3")) Console.Write("You've started command3\n");

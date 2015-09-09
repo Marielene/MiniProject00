@@ -1,0 +1,11 @@
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\Colors.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\Colors.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\mscorlib.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\normidna.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\normnfc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\normnfd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\normnfkc.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\bin\Release\normnfkd.nlp
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\obj\Release\Colors.dll
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\obj\Release\Colors.pdb
+C:\Users\J\halp\proj0\MiniProject00\MiniProject00\Colors\obj\Release\Colors.csprojResolveAssemblyReference.cache
