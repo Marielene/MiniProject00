@@ -21,8 +21,12 @@ namespace Userinput
 				c.Command();_comm=Console.ReadLine();
 				//checking for existing commands
 				if(_comm.ToLower().Contains("pit")) _Calc.F01.calc(_comm);
-				if(_comm.ToLower().Contains("corner")) _Calc.F02.cal(_comm);
+				if(_comm.ToLower().Contains("ccorner")) _Calc.F02.cal(_comm);
 				if(_comm.ToLower().Contains("salient")) _Calc.F03.cali(_comm);
+				if(_comm.ToLower().Contains("scorner")) _Calc.F04.call(_comm);
+				if(_comm.ToLower().Contains("trench")) _Calc.F05.calu(_comm);
+
+
 				if(_comm.ToLower().Contains("help")||
 					_comm.ToLower()==("-h")) _Calc.commadns();
 				if(_comm.ToLower()==("clear")||
