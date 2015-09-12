@@ -36,8 +36,8 @@ namespace Calculations
 					double _result =0;
 					if (runcalc(par, ref _result))
 					{
-						c.Default();Console.WriteLine("Volume of the ordinary construction pit is: ");
-						c.Result();Console.WriteLine(_result+"m3");
+						c.Result();Console.WriteLine("Volume of the ordinary construction pit is: ");
+						Console.WriteLine(_result+"m3");
 					}
 					else{ c.Error();Console.WriteLine("Invalid input, use the help command");
 					}

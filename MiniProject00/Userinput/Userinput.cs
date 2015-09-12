@@ -20,10 +20,9 @@ namespace Userinput
 				c.prompt();Console.Write("$ "); 
 				c.Command();_comm=Console.ReadLine();
 				//checking for existing commands
-				if(_comm.ToLower().Contains("pit")){ _Calc.F01.calc(_comm);
-				}
+				if(_comm.ToLower().Contains("pit")) _Calc.F01.calc(_comm);
 				if(_comm.ToLower().Contains("corner")) _Calc.F02.cal(_comm);
-				if(_comm.ToLower().Contains("command3")) Console.Write("You've started command3\n");
+				if(_comm.ToLower().Contains("salient")) _Calc.F03.cali(_comm);
 			} while((_comm.ToLower() != "quit") && (_comm.ToLower() !="leave") && (_comm.ToLower()!="exit"));
 		}
 		public void justesting()
